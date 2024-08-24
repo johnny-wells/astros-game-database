@@ -1,1 +1,1 @@
-# astros-game-database
+# Project to downlod Astros box score each day, format, and upload into a MySQL database
